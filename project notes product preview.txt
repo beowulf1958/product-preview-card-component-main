@@ -1,0 +1,30 @@
+
+-----
+Fonts
+-----
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
+ <style>
+   font-family: 'Fraunces', serif;	  /* accent */
+   font-family: 'Montserrat', sans-serif; /* base  */
+ </styles>
+
+-------------
+Shopping Cart
+-------------
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+ <span class="material-symbols-outlined">
+   shopping_cart
+ </span>
+
+-------
+YouTube
+-------
+Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component
+Kevin Powell
+https://www.youtube.com/watch?v=B2WL6KkqhLQ&t=42s
+
+ ==further resources==
+ https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html
+ https://www.youtube.com/watch?v=McC4QkCvbaY >'is' and 'where'
